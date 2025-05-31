@@ -1,13 +1,9 @@
 ## Opa! Que bom que meu perfil sua atenção, espero que goste do que tenho por aqui.
 
-💻 Atuo como Desenvolvedor Front End na Infocorp
-
-🎓 Cursando Engenharia da Computação na UFMT (Universidade Federal de Mato Grosso)
-
-🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unifatecie
-
-🎓 Em breve...
-
+💻 Atuo como Desenvolvedor Front End na Infocorp  
+🎓 Cursando Engenharia da Computação na UFMT (Universidade Federal de Mato Grosso)  
+🎓 Formado em Análise e Desenvolvimento de Sistemas pela Unifatecie  
+🎓 Em breve...  
 
 ### 🚀 Tecnologias que mais uso:
 - **Linguagens:** `Typescript`, `SQL`, `Java`, `Python`
@@ -19,7 +15,6 @@
 <!--
 ### 📚 Estudando
 🌿
--->
 ### 📦 Projetos Atuais
 
 <!--
