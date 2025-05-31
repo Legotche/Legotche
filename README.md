@@ -9,25 +9,17 @@
 🎓 Em breve...
 
 
-### 🚀 Minha "Maravilhosa Pilha Tecnológica"
-- **Linguagens e Ferramentas:**
-  - TypeScript
-  - Node.js (backend)
-- ** ⚙️ Frameworks e Bibliotecas:**
-  - Fastify (framework web)
-  - Swagger (API's auto documentadas)
-  - Zod (validação de dados)
-- **Banco de Dados:**
-  - MySQL (banco de dados relacional)
-  - PostgresSQL (banco de dados relacional)
-  - drizzle-orm (ORM para MySQL)
-- **Outras Tecnologias:**
-  - dotenv (variáveis de ambiente)
-  - Docker (containerização, via docker-compose)
+### 🚀 Tecnologias que mais uso:
+- **Linguagens:** `Typescript`, `SQL`, `Java`, `Python`
+- **Front-End:** `React`, `Angular`, `Tailwind CSS`
+- **Back-End:** `Jest`, `Swagger`, `JWT: Json Web Tocken`, `swagger`, `zod`
+- **Banco de dados:** `PostgreSQL`, `MySQL`, `Drizzle ORM`, `TypeORM`
+- **Ferramentas:** `Git`, `Docker`
 
+<!--
 ### 📚 Estudando
-
-
+🌿
+-->
 ### 📦 Projetos Atuais
 
 <!--
